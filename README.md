@@ -11,11 +11,11 @@
 
   I'd choose PyTorch for research and fast prototyping and TensorFlow for large-scale production and deployment.
 
-  #### Q2. Two use cases for Jupyter Notebooks in AI
+#### Q2. Two use cases for Jupyter Notebooks in AI
   1. Model Experimentation: Jupyter allows developers to write and test small parts of code interactively, visualize results, and tune models efficiently.
   2. Documentation and Reporting: You can mix code, visualizations, and markdown notes in one file — perfect for presentations or collaborative work.
  
-  #### Q3: How does spaCy enhance NLP tasks compared to basic Python string operations?
+#### Q3: How does spaCy enhance NLP tasks compared to basic Python string operations?
  spaCy goes beyond basic Python string operations by providing contextual language understanding.
  While basic string functions only split or search for words, spaCy can:
 - Detect named entities (like brands or people).
