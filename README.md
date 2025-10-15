@@ -30,5 +30,19 @@ This allows for more accurate and meaningful text analysis.
 | **Ease of Use**        | Easier for beginners with simple syntax               | More complex setup but flexible                   |
 | **Community Support**  | Strong academic & ML community                        | Very large global deep learning community         |
 
+## Part 3: Ethics & Optimization (10%)
+### 1. Ethical Considerations
+- The MNIST model might underperform on handwriting styles from underrepresented groups.
+- Amazon reviews may reflect biased language (e.g., gendered or cultural bias).
+To reduce bias:
+- Use TensorFlow Fairness Indicators to measure and visualize fairness in predictions.
+- Use spaCy’s rule-based filters to control for biased words and ensure consistent labeling.
+
+### 2. Troubleshooting Challenge
+When debugging TensorFlow models:
+- Check input shapes (must match model input).
+- Ensure correct loss function (e.g., sparse_categorical_crossentropy for integer labels).
+- Confirm data normalization (values between 0–1).
+
 
 
