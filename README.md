@@ -44,5 +44,15 @@ When debugging TensorFlow models:
 - Ensure correct loss function (e.g., sparse_categorical_crossentropy for integer labels).
 - Confirm data normalization (values between 0–1).
 
+## Screenshots of model outputs (e.g., accuracy graphs, NER results).
+
+
+<img width="1138" height="579" alt="deep learning" src="https://github.com/user-attachments/assets/537b60a2-0825-4ca1-9018-d3f72ecb9d6c" />
+
+<img width="542" height="245" alt="nlp 1" src="https://github.com/user-attachments/assets/bf76f24f-4c6e-448c-a8b3-19ced0ea3e01" />
+
+## Streamlit App
+
+<img width="813" height="601" alt="mnist" src="https://github.com/user-attachments/assets/0ad1eefc-2d29-49b7-ba5c-ca343c4283aa" />
 
 
